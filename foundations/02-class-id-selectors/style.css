@@ -7,3 +7,12 @@
     color: #141456;
     font-size: 36px;
 }
+.odd.cooler {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(143,250,143);
+    font-weight: bold;
+    font-size: 24px;
+}
